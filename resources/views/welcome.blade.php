@@ -154,8 +154,8 @@
 									<button type="button" class="btn btn-default get">Get it now</button>
 								</div>
 								<div class="col-sm-6">
-									<img src="{{('public/frontend/images/girl1.jpg')}}" class="girl img-responsive" alt="" />
-									<img src="{{('public/frontend/images/pricing.png')}}"  class="pricing" alt="" />
+									<img src="{{('public/frontend/images/tuyendung.jpg')}}" class="girl img-responsive" alt="" />
+									<img src="{{('public/frontend/images/home/pricing.png')}}"  class="pricing" alt="" />
 								</div>
 							</div>
 							<div class="item">
@@ -166,8 +166,8 @@
 									<button type="button" class="btn btn-default get">Get it now</button>
 								</div>
 								<div class="col-sm-6">
-									<img src="{{('public/frontend/images/girl2.jpg')}}" class="girl img-responsive" alt="" />
-									<img src="{{('public/frontend/images/pricing.png')}}"  class="pricing" alt="" />
+									<img src="{{('public/frontend/images/tuyendung.jpg')}}" class="girl img-responsive" alt="" />
+									<img src="{{('public/frontend/images/home/pricing.png')}}"  class="pricing" alt="" />
 								</div>
 							</div>
 							
@@ -179,8 +179,8 @@
 									<button type="button" class="btn btn-default get">Get it now</button>
 								</div>
 								<div class="col-sm-6">
-									<img src="{{('public/frontend/images/girl3.jpg')}}" class="girl img-responsive" alt="" />
-									<img src="{{('public/frontend/images/pricing.png')}}" class="pricing" alt="" />
+									<img src="{{('public/frontend/images/tuyendung.jpg')}}" class="girl img-responsive" alt="" />
+									<img src="{{('public/frontend/images/home/pricing.png')}}" class="pricing" alt="" />
 								</div>
 							</div>
 							
@@ -333,7 +333,7 @@
 						</div><!--/price-range-->
 						
 						<div class="shipping text-center"><!--shipping-->
-							<img src="{{('public/frontend/images/shipping.jpg')}}" alt="" />
+							<img src="{{('public/frontend/images/logo1.jpg')}}" alt="" />
 						</div><!--/shipping-->
 					
 					</div>
@@ -346,7 +346,7 @@
 							<div class="product-image-wrapper">
 								<div class="single-products">
 										<div class="productinfo text-center">
-											<img src="{{('public/frontend/images/product1.jpg')}}" alt="" />
+											<img src="{{('public/frontend/images/logo2.jpg')}}" alt="" />
 											<h2></h2>
 											<p>Công ty cổ phần GREEN SPEED</p>
 											<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Lưu công việc</a>
@@ -371,7 +371,7 @@
 							<div class="product-image-wrapper">
 								<div class="single-products">
 									<div class="productinfo text-center">
-										<img src="{{('public/frontend/images/product2.jpg')}}" alt="" />
+										<img src="{{('public/frontend/images/logo3.jpg')}}" alt="" />
 										<h2></h2>
 										<p>FPT Software</p>
 										<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Lưu công việc</a>
@@ -396,7 +396,7 @@
 							<div class="product-image-wrapper">
 								<div class="single-products">
 									<div class="productinfo text-center">
-										<img src="{{('public/frontend/images/product3.jpg')}}" alt="" />
+										<img src="{{('public/frontend/images/logo4.jpg')}}" alt="" />
 										<h2></h2>
 										<p>Công ty cổ phần 247</p>
 										<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Lưu công việc</a>
@@ -421,7 +421,7 @@
 							<div class="product-image-wrapper">
 								<div class="single-products">
 									<div class="productinfo text-center">
-										<img src="{{('public/frontend/images/product4.jpg')}}" alt="" />
+										<img src="{{('public/frontend/images/logo1.jpg')}}" alt="" />
 										<h2></h2>
 										<p>Công ty cổ phần Power membership card</p>
 										<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Lưu công việc</a>
@@ -433,7 +433,7 @@
 											<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Lưu công việc</a>
 										</div>
 									</div>
-									<img src="{{('public/frontend/images/new.png')}}" class="new" alt="" />
+									<img src="{{('public/frontend/images/home/new.png')}}" class="new" alt="" />
 								</div>
 								<div class="choose">
 									<ul class="nav nav-pills nav-justified">
@@ -447,7 +447,7 @@
 							<div class="product-image-wrapper">
 								<div class="single-products">
 									<div class="productinfo text-center">
-										<img src="{{('public/frontend/images/product5.jpg')}}" alt="" />
+										<img src="{{('public/frontend/images/logo2.jpg')}}" alt="" />
 										<h2></h2>
 										<p>Công ty cổ phần Power membership card</p>
 										<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Lưu công việc</a>
@@ -459,7 +459,7 @@
 											<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Lưu công việc</a>
 										</div>
 									</div>
-									<img src="{{('public/frontend/images/sale.png')}}" class="new" alt="" />
+									<img src="{{('public/frontend/images/home/sale.png')}}" class="new" alt="" />
 								</div>
 								<div class="choose">
 									<ul class="nav nav-pills nav-justified">
@@ -473,7 +473,7 @@
 							<div class="product-image-wrapper">
 								<div class="single-products">
 									<div class="productinfo text-center">
-										<img src="{{('public/frontend/images/product6.jpg')}}" alt="" />
+										<img src="{{('public/frontend/images/logo3.jpg')}}" alt="" />
 										<h2></h2>
 										<p>Công ty TNHH Hoa Thiên</p>
 										<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Lưu công việc</a>
@@ -513,7 +513,7 @@
 									<div class="product-image-wrapper">
 										<div class="single-products">
 											<div class="productinfo text-center">
-												<img src="{{('public/frontend/images/gallery1.jpg')}}" alt="" />
+												<img src="{{('public/frontend/images/logo4.jpg')}}" alt="" />
 												<h2></h2>
 												<p>FPT Software</p>
 												<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Lưu công việc</a>
@@ -526,7 +526,7 @@
 									<div class="product-image-wrapper">
 										<div class="single-products">
 											<div class="productinfo text-center">
-												<img src="{{('public/frontend/images/gallery2.jpg')}}" alt="" />
+												<img src="{{('public/frontend/images/logo1.jpg')}}" alt="" />
 												<h2></h2>
 												<p>FPT Software</p>
 												<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Lưu công việc</a>
@@ -539,7 +539,7 @@
 									<div class="product-image-wrapper">
 										<div class="single-products">
 											<div class="productinfo text-center">
-												<img src="{{('public/frontend/images/gallery3.jpg')}}" alt="" />
+												<img src="{{('public/frontend/images/logo2.jpg')}}" alt="" />
 												<h2></h2>
 												<p>FPT Software</p>
 												<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Lưu công việc</a>
@@ -552,7 +552,7 @@
 									<div class="product-image-wrapper">
 										<div class="single-products">
 											<div class="productinfo text-center">
-												<img src="{{('public/frontend/images/gallery4.jpg')}}" alt="" />
+												<img src="{{('public/frontend/images/logo3.jpg')}}" alt="" />
 												<h2></h2>
 												<p>FPT Software</p>
 												<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Lưu công việc</a>
@@ -568,7 +568,7 @@
 									<div class="product-image-wrapper">
 										<div class="single-products">
 											<div class="productinfo text-center">
-												<img src="{{('public/frontend/images/gallery4.jpg')}}" alt="" />
+												<img src="{{('public/frontend/images/logo4.jpg')}}" alt="" />
 												<h2></h2>
 												<p>FPT Software</p>
 												<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Lưu công việc</a>
@@ -581,7 +581,7 @@
 									<div class="product-image-wrapper">
 										<div class="single-products">
 											<div class="productinfo text-center">
-												<img src="{{('public/frontend/images/gallery3.jpg')}}" alt="" />
+												<img src="{{('public/frontend/images/logo1.jpg')}}" alt="" />
 												<h2></h2>
 												<p>FPT Software</p>
 												<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Lưu công việc</a>
@@ -594,7 +594,7 @@
 									<div class="product-image-wrapper">
 										<div class="single-products">
 											<div class="productinfo text-center">
-												<img src="{{('public/frontend/images/gallery2.jpg')}}" alt="" />
+												<img src="{{('public/frontend/images/logo2.jpg')}}" alt="" />
 												<h2></h2>
 												<p>FPT Software</p>
 												<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Lưu công việc</a>
@@ -607,7 +607,7 @@
 									<div class="product-image-wrapper">
 										<div class="single-products">
 											<div class="productinfo text-center">
-												<img src="{{('public/frontend/images/gallery1.jpg')}}" alt="" />
+												<img src="{{('public/frontend/images/logo3.jpg')}}" alt="" />
 												<h2></h2>
 												<p>FPT Software</p>
 												<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Lưu công việc</a>
@@ -623,7 +623,7 @@
 									<div class="product-image-wrapper">
 										<div class="single-products">
 											<div class="productinfo text-center">
-												<img src="{{('public/frontend/images/gallery3.jpg')}}" alt="" />
+												<img src="{{('public/frontend/images/logo4.jpg')}}" alt="" />
 												<h2></h2>
 												<p>FPT Software</p>
 												<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Lưu công việc</a>
@@ -636,7 +636,7 @@
 									<div class="product-image-wrapper">
 										<div class="single-products">
 											<div class="productinfo text-center">
-												<img src="{{('public/frontend/images/gallery4.jpg')}}" alt="" />
+												<img src="{{('public/frontend/images/logo1.jpg')}}" alt="" />
 												<h2></h2>
 												<p>FPT Software</p>
 												<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Lưu công việc</a>
@@ -649,7 +649,7 @@
 									<div class="product-image-wrapper">
 										<div class="single-products">
 											<div class="productinfo text-center">
-												<img src="{{('public/frontend/images/gallery1.jpg')}}" alt="" />
+												<img src="{{('public/frontend/images/logo2.jpg')}}" alt="" />
 												<h2></h2>
 												<p>FPT Software</p>
 												<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Lưu công việc</a>
@@ -662,7 +662,7 @@
 									<div class="product-image-wrapper">
 										<div class="single-products">
 											<div class="productinfo text-center">
-												<img src="{{('public/frontend/images/gallery2.jpg')}}" alt="" />
+												<img src="{{('public/frontend/images/logo3.jpg')}}" alt="" />
 												<h2></h2>
 												<p>FPT Software</p>
 												<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Lưu công việc</a>
@@ -678,7 +678,7 @@
 									<div class="product-image-wrapper">
 										<div class="single-products">
 											<div class="productinfo text-center">
-												<img src="{{('public/frontend/images/gallery1.jpg')}}" alt="" />
+												<img src="{{('public/frontend/images/logo4.jpg')}}" alt="" />
 												<h2></h2>
 												<p>FPT Software</p>
 												<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Lưu công việc</a>
@@ -691,7 +691,7 @@
 									<div class="product-image-wrapper">
 										<div class="single-products">
 											<div class="productinfo text-center">
-												<img src="{{('public/frontend/images/gallery2.jpg')}}" alt="" />
+												<img src="{{('public/frontend/images/logo1.jpg')}}" alt="" />
 												<h2></h2>
 												<p>FPT Software</p>
 												<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Lưu công việc</a>
@@ -704,7 +704,7 @@
 									<div class="product-image-wrapper">
 										<div class="single-products">
 											<div class="productinfo text-center">
-												<img src="{{('public/frontend/images/gallery3.jpg')}}" alt="" />
+												<img src="{{('public/frontend/images/logo2.jpg')}}" alt="" />
 												<h2></h2>
 												<p>FPT Software</p>
 												<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Lưu công việc</a>
@@ -717,7 +717,7 @@
 									<div class="product-image-wrapper">
 										<div class="single-products">
 											<div class="productinfo text-center">
-												<img src="{{('public/frontend/images/gallery4.jpg')}}" alt="" />
+												<img src="{{('public/frontend/images/logo3.jpg')}}" alt="" />
 												<h2></h2>
 												<p>FPT Software</p>
 												<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Lưu công việc</a>
@@ -733,7 +733,7 @@
 									<div class="product-image-wrapper">
 										<div class="single-products">
 											<div class="productinfo text-center">
-												<img src="{{('public/frontend/images/gallery2.jpg')}}" alt="" />
+												<img src="{{('public/frontend/images/logo4.jpg')}}" alt="" />
 												<h2></h2>
 												<p>FPT Software</p>
 												<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Lưu công việc</a>
@@ -746,7 +746,7 @@
 									<div class="product-image-wrapper">
 										<div class="single-products">
 											<div class="productinfo text-center">
-												<img src="{{('public/frontend/images/gallery4.jpg')}}" alt="" />
+												<img src="{{('public/frontend/images/logo1.jpg')}}" alt="" />
 												<h2></h2>
 												<p>FPT Software</p>
 												<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Lưu công việc</a>
@@ -759,7 +759,7 @@
 									<div class="product-image-wrapper">
 										<div class="single-products">
 											<div class="productinfo text-center">
-												<img src="{{('public/frontend/images/gallery3.jpg')}}" alt="" />
+												<img src="{{('public/frontend/images/logo2.jpg')}}" alt="" />
 												<h2></h2>
 												<p>FPT Software</p>
 												<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Lưu công việc</a>
@@ -772,7 +772,7 @@
 									<div class="product-image-wrapper">
 										<div class="single-products">
 											<div class="productinfo text-center">
-												<img src="{{('public/frontend/images/gallery1.jpg')}}" alt="" />
+												<img src="{{('public/frontend/images/logo3.jpg')}}" alt="" />
 												<h2></h2>
 												<p>FPT Software</p>
 												<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Lưu công việc</a>
@@ -795,7 +795,7 @@
 										<div class="product-image-wrapper">
 											<div class="single-products">
 												<div class="productinfo text-center">
-													<img src="{{('public/frontend/images/recommend1.jpg')}}" alt="" />
+													<img src="{{('public/frontend/images/logo1.jpg')}}" alt="" />
 													<h2></h2>
 													<p>Công ty MCN BYSCOM</p>
 													<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Lưu công việc</a>
@@ -808,7 +808,7 @@
 										<div class="product-image-wrapper">
 											<div class="single-products">
 												<div class="productinfo text-center">
-													<img src="{{('public/frontend/images/recommend2.jpg')}}" alt="" />
+													<img src="{{('public/frontend/images/logo2.jpg')}}" alt="" />
 													<h2></h2>
 													<p>Công ty TNHH Hoa Thiên</p>
 													<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Lưu công việc</a>
@@ -821,7 +821,7 @@
 										<div class="product-image-wrapper">
 											<div class="single-products">
 												<div class="productinfo text-center">
-													<img src="{{('public/frontend/images/recommend3.jpg')}}" alt="" />
+													<img src="{{('public/frontend/images/logo3.jpg')}}" alt="" />
 													<h2></h2>
 													<p>Công ty FPT Software</p>
 													<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Lưu công việc</a>
@@ -836,7 +836,7 @@
 										<div class="product-image-wrapper">
 											<div class="single-products">
 												<div class="productinfo text-center">
-													<img src="{{('public/frontend/images/recommend1.jpg')}}" alt="" />
+													<img src="{{('public/frontend/images/logo4.jpg')}}" alt="" />
 													<h2></h2>
 													<p>Công ty Job Dove</p>
 													<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Lưu công việc</a>
@@ -849,7 +849,7 @@
 										<div class="product-image-wrapper">
 											<div class="single-products">
 												<div class="productinfo text-center">
-													<img src="{{('public/frontend/images/recommend2.jpg')}}" alt="" />
+													<img src="{{('public/frontend/images/logo1.jpg')}}" alt="" />
 													<h2></h2>
 													<p>Công ty TNHH Simple</p>
 													<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Lưu công việc</a>
@@ -862,7 +862,7 @@
 										<div class="product-image-wrapper">
 											<div class="single-products">
 												<div class="productinfo text-center">
-													<img src="{{('public/frontend/images/recommend3.jpg')}}" alt="" />
+													<img src="{{('public/frontend/images/logo2.jpg')}}" alt="" />
 													<h2></h2>
 													<p>Công ty KIND TO SKIN</p>
 													<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Lưu công việc</a>
