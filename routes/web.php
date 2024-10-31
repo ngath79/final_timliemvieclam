@@ -18,5 +18,19 @@ use Illuminate\Support\Facades\Route;
 
 //Route::get('/trang-chu','HomeController@index');
 
+
+
+//frontend
 Route::get('/', 'App\Http\Controllers\HomeController@index');
 Route::get('/trang-chu', 'App\Http\Controllers\HomeController@index');
+
+
+
+
+
+
+
+//Backend
+Route::get('/admin', 'App\Http\Controllers\AdminController@index');
+Route::get('/dashboard', 'App\Http\Controllers\AdminController@show_dashboard');
+
