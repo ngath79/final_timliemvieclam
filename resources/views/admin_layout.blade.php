@@ -248,14 +248,21 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
         <!-- user login dropdown start-->
         <li class="dropdown">
             <a data-toggle="dropdown" class="dropdown-toggle" href="#">
-                <img alt="" src="{{('public/backend/images/2.png')}}">
-                <span class="username">Mai Thi Nga</span>
+                <img alt="" src="{{('public/frontend/images/avata.png')}}">
+                <span class="username">
+                <?php
+	                $name = Session::get('admin_name');
+	                if($name) {
+		                echo $name;
+	                }
+	            ?>
+                </span>
                 <b class="caret"></b>
             </a>
             <ul class="dropdown-menu extended logout">
                 <li><a href="#"><i class=" fa fa-suitcase"></i>Profile</a></li>
                 <li><a href="#"><i class="fa fa-cog"></i> Cài đặt</a></li>
-                <li><a href="login.html"><i class="fa fa-key"></i> Đăng xuất</a></li>
+                <li><a href="{{URL::to('/logout')}}"><i class="fa fa-key"></i> Đăng xuất</a></li>
             </ul>
         </li>
         <!-- user login dropdown end -->
@@ -281,12 +288,12 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                 <li class="sub-menu">
                     <a href="javascript:;">
                         <i class="fa fa-book"></i>
-                        <span>Danh mục</span>
+                        <span>Danh mục Job</span>
                     </a>
                     <ul class="sub">
-						<li><a href="typography.html">Thêm danh mục</a></li>
-						<!-- <li><a href="glyphicon.html">glyphicon</a></li>
-                        <li><a href="grids.html">Grids</a></li> -->
+						<li><a href="typography.html">Thêm danh mục Job</a></li>
+						<li><a href="glyphicon.html">Liệt kê danh mục Job</a></li>
+                        <!--<li><a href="grids.html">Grids</a></li> -->
                     </ul> 
                 </li>
                 <!-- <li>
